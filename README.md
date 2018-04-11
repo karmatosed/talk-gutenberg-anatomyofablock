@@ -21,3 +21,13 @@ These resources are for anyone, not just designers, to learn about the design pa
 
 #### [Try Gutenberg](http://wordpress.org/plugins/gutenberg) 
 #### [Handbook](https://wordpress.org/gutenberg/handbook/)
+#### [GitHub Repo](https://github.com/wordpress/gutenbreg/)
+
+## Get help
+
+#### [Support forum](https://wordpress.org/support/plugin/gutenberg)
+#### [GitHub Repo](https://github.com/WordPress/gutenberg/issues/new)
+
+## Theme
+
+#### [Gutenberg starter theme](https://github.com/WordPress/gutenberg-starter-theme)
