@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the resources page to go with this talk
 
 These resources are for anyone, not just designers, to learn about the design patterns behind Gutenberg and specifically about blocks.
+
+[Learn more about Gutenberg](https://wordpress.org/gutenberg/)
 
 ### Slides
 [Link](url)
@@ -12,4 +14,5 @@ These resources are for anyone, not just designers, to learn about the design pa
 
 ### Contribution links
 
-[Handbook: Design principles](https://wordpress.org/gutenberg/handbook/reference/design-principles/)
+[Try Gutenberg](http://wordpress.org/plugins/gutenberg)
+[Handbook](https://wordpress.org/gutenberg/handbook/)
