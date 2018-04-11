@@ -5,7 +5,7 @@ These resources are for anyone, not just designers, to learn about the design pa
 [Learn more about Gutenberg](https://wordpress.org/gutenberg/)
 
 ### Slides
-[Link](url)
+[View the slides from this talk](https://github.com/karmatosed/talk-gutenberg-anatomyofablock/blob/master/anatomyofablock.pdf)
 
 ### Links
 
