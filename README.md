@@ -1,6 +1,6 @@
 # The following are resouces from the talk
 
-These resources are for anyone, not just designers, to learn about the design patterns behind Gutenberg and specifically about blocks.
+These resources are for anyone, not just designers, to learn about the design patterns behind Gutenberg and specifically about blocks. Want to have something answered about Gutenberg design in this talk? Just let me know in [this form](https://goo.gl/forms/lUSzfGHUUdAlOSTH3)
 
 #### [Learn more about Gutenberg](https://wordpress.org/gutenberg/)
 
